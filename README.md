@@ -3,7 +3,7 @@
 Simple Flutter Application Using Provider State Managment.
 
 
-![alt text](http://https://drive.google.com/file/d/1oq6quhsT_IGpspYygNiXms2XfeN1bYiq/view)
+![alt text](https://drive.google.com/file/d/1oq6quhsT_IGpspYygNiXms2XfeN1bYiq/view?usp=sharing)
 
 
 
