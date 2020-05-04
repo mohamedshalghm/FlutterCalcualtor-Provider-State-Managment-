@@ -2,8 +2,8 @@
 
 Simple Flutter Application Using Provider State Managment.
 
-![alt text](https://drive.google.com/file/d/1oq6quhsT_IGpspYygNiXms2XfeN1bYiq/preview)
 
+  <img src="https://drive.google.com/file/d/1oq6quhsT_IGpspYygNiXms2XfeN1bYiq/preview" width="350" title="hover text">
 
 ## Getting Started
 
